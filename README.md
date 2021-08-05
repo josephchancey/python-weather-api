@@ -1,5 +1,5 @@
 # python-weather-api-challenge
-WeatherPy &amp; VacationPy API challenger. Use Data Analysis libraries in Python to analyze and visualize API weather data.
+WeatherPy &amp; VacationPy API challenge. Use Data Analysis libraries in Python to analyze and visualize API weather data.
 
 
 ### Weather API - Python
